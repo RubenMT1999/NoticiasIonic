@@ -1,0 +1,6 @@
+
+para abrir los articulos en el navegador:
+    npm i cordova-plugin-inappbrowser
+    npm install @ionic-native/in-app-browser --legacy-peer-deps
+    npm install @awesome-cordova-plugins/in-app-browser ???
+    
